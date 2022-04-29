@@ -5,3 +5,4 @@ The charm code used throughout is available at https://github.com/jnsgruk/zinc-k
 | Session                                        | Resources                                                                         |
 | :--------------------------------------------- | :-------------------------------------------------------------------------------- |
 | Adding Observability to Juju charmed operators | [Gist](https://gist.github.com/simskij/5ad6a0518ab093d0d518a5bd073746f6), Slides  |
+| Testing Framework - Juju Charmed Operators     | Slides                                                                            |
